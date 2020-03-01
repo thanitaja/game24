@@ -1,0 +1,12 @@
+Foxy 	 1.22
+korn 	 2.37
+Yuri 	 5.32
+Yaya 	 5.40
+train 	 5.88
+Tea 	 7.00
+yut 	 8.50
+Fong 	 10.00
+Tee 	 12.52
+Nadej 	 12.72
+Minty 	 13.22
+Lucky 	 50.25
